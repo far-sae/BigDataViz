@@ -87,7 +87,7 @@ def plot_pairplot(data):
     sns.pairplot(numeric_data)
     plt.show()
 
-# Example Usage
+
 
 def main():
     # Load a sample dataset
